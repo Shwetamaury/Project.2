@@ -1,0 +1,266 @@
+section {
+    background-color: #6f6af7;
+}
+img.dappr {
+    font-weight: 700;
+    font-size: 61px;
+    font-family: "Delius Unicase",cursive;
+    color: white;
+    font-style: normal;
+    margin-left: 10px;
+}
+ul.navbar-nav {
+        font-size: 30px;
+}
+li.nav-item {
+    padding-left: 10px;
+}
+a.nav-link {
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+}
+input.search {
+    margin-left: 50px;
+    margin-right: 160px;
+    border-radius: 50px;
+    border: 0px;
+    padding-top: 15px;
+    padding-left: 40px;
+    padding-right: 5px;
+    padding-bottom: 8px;
+}
+img.search {
+    position: absolute;
+    top: 28px;
+    right: 175px;
+    height: 22px;
+}
+img.vactor {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    height: 40px;
+}
+img.image {
+    height: 380px;
+    width: 330px;
+    border-radius: 20px;
+    box-shadow: 4px 7px 32px 0px #00000070;
+    margin-top: 80px;
+  margin-left: 80px;
+}
+.right.banner {
+    margin-top: 80px;
+    margin-right: -35px;
+    margin-left: 60px;
+    border-radius: 20px;
+    border: 6px solid #FFF;
+    background: #E5D8FF;
+    box-shadow: 3px 5px 27px 0px rgba(0, 0, 0, 0.25) inset;
+}
+p {
+    padding-bottom: 270px;
+    color: #6F7373;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 178.7%;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+.col-md-8 {
+    margin-left: 60px;
+}
+
+
+img.whatsapp {
+    border: 2px solid;
+    border-radius: 10px;
+    margin-top: 175px;
+    margin-left: 42px;
+    height: 50px;
+}
+img.facebook {
+    height: 50px;
+    margin-left: 41px;
+}
+img.twiter {
+    height: 50px;
+    margin-left: 41px;
+}
+.card.\31 {
+    height: 100px;
+    width: 240px;
+    margin-top: 80px;
+    border-radius: 11px;
+    background: #929DFF;
+    box-shadow: 0px 9px 31px 0px rgba(0, 0, 0, 0.40);
+    border: 0px;
+    margin-left: 16px;
+    
+}
+.card.\32 {
+    height: 100px;
+    width: 240px;
+    margin-top: 80px;
+    border: 0px;
+    margin-left: 41px;
+    border-radius: 11px;
+    background: #734CF2;
+    box-shadow: 0px 9px 31px 0px rgba(0, 0, 0, 0.40);
+}
+.card.\33 {
+    height: 100px;
+    width: 240px;
+    margin-top: 80px;
+    border-radius: 11px;
+    background: #D288FF;
+    box-shadow: 0px 9px 31px 0px rgba(0, 0, 0, 0.40);
+    border: 0px;
+    margin-left: 41px;
+}
+.card.\34 {
+    height: 100px;
+    width: 240px;
+    margin-top: 80px;
+    border-radius: 11px;
+    background: #000;
+    box-shadow: 0px 9px 31px 0px rgba(0, 0, 0, 0.40);
+    border: 0px;
+    margin-left: 41px;
+}
+h5.card-title {
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 144.7%;
+    letter-spacing: 1.16px;
+}
+.container{
+    display: flex;
+}
+p1.card-text {
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 1.12px;
+    margin-left: 5px;
+}
+img.group {
+    margin-left: 144px;
+    margin-top: -50px;
+    height: 100px;
+    width: 100px;
+}
+section.button {
+    border-radius: 10px;
+    background: #483EFF;
+    width: 1100px;
+    height: 468px;
+    flex-shrink: 0;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+button.your.info {
+    margin-top: 80px;
+    margin-left: 8px;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 15px 80px 15px 81px;
+    border-color: white;
+    background: #BCE0F6;
+    box-shadow: 0px 6px 35px 0px rgba(0, 0, 0, 0.39);
+    font-weight: 500;
+    font-size: larger;
+
+}
+button.bookmarks {
+    margin-top: 75px;
+    margin-left: 8px;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 15px 80px 15px 64px;
+    border-color: white;
+    background: #483eff;
+    font-weight: 500;
+    font-size: larger;
+    color: white;
+}
+button.settings {
+    margin-top: 75px;
+    margin-left: 8px;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 15px 80px 15px 95px;
+    border-color: white;
+    background: #483eff;
+    font-weight: 500;
+    font-size: larger;
+    color: white;
+}
+li {
+    list-style-type: none;
+}
+.card {
+    height: 460px;
+    width: 730px;
+    margin-top: 30px;
+    border-radius: 11px;
+    background: white;
+    border: 0px;
+    margin-left: 30px;
+}
+h4.card-title {
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+ul.text{
+color: #143565;
+font-family: sans-serif;
+font-size: 20px;
+font-weight: 400;
+letter-spacing: 1.2px;
+margin-left: 27px;
+padding-top: 21px;
+}
+li.gmail {
+    padding-top: 20px;
+}
+li.phone{
+    padding-top: 20px;
+}
+li.marks{
+    padding-top: 20px;
+}
+button.button {
+margin-left: 555px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+background-color: black;
+border: 0px;
+border-radius: 5px;
+color: white;
+padding-left: 13px;
+font-weight: 600;
+font-size: 19px;
+margin-top: 31px;
+}
+
+
+
+
+
+
